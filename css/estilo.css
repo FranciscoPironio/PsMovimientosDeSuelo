@@ -3,6 +3,9 @@ footer div {
   footer div ul {
     list-style-type: none; }
 
+body {
+  background-image: url(../img/fondo.jpg); }
+
 .card {
   border: none;
   text-align: center;
